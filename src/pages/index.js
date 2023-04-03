@@ -9,7 +9,7 @@ export default function Home() {
         <title>Inkling AI</title>
         <meta name="description" content="Inkling AI Project" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/icons/favicon.ico" />
       </Head>
       <Root>
         <InklingLogo src='/icons/inkling.svg' alt='Inkling Icon' width={240} height={122} priority />
